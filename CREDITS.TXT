@@ -1,0 +1,31 @@
+#OpenXcom Commendations Mod by hellrazor, Shoes, Ivan Dogovich
+#Credits for Version 3.2
+Credits go to:
+	Everyone in #openxcom @freenode
+	Everyone in the OXC community, which somehow provided feedback, bugreports etc..
+	
+	Shoes:
+		- for the Initial Mod
+	Ivan Dogovich:
+		- for Initial Mod
+		- for most Graphics
+	hellrazor:
+		- ruleset overwork
+		- fixed templates
+		- sorted files
+	jgatkinsn:
+		- various bug fixes
+	Meridian:
+		ämany palette fixes on the images
+	holomorph (http://holomorph.eu/):
+		- Ufopaedia Graphics for:
+			MEDAL_GLOBETROTTER  
+			MEDAL_MARTYR  
+			MEDAL_MINDCONTROL  
+			MEDAL_POSTMORTEM_KILL  
+			MEDAL_PSIPANIC  
+			MEDAL_SLAVEKILLS  
+
+	All translaters on the TRANSIFEX project (you guys are awesome)
+
+If i forgot someone, or something is incorrect, please let me know.
