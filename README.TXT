@@ -66,6 +66,17 @@ This mod requieres at least: openxcom_git_master_2018_04_24_2218 or newer
 CHANGELOG:
 
 Version 3.3:
+ - Add Translations for the following languages (50%+)
+	- Russian
+	- Italian
+	- German
+	- Japanese
+	- Polish
+	- Hungarian
+	- Korean
+	- French
+	- Portugese
+	- Spanish
  - Add Final Version of the Commendation sprite provided by	cevaralien
  - Add Missing Ufopaedia Strings for:
 	1. STR_MEDAL_GLOBETROTTER
