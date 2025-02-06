@@ -316,10 +316,10 @@ commendations:
     description: STR_MEDAL_MINDCONTROL_DESCRIPTION
     sprite: 33
     criteria:
-      killsWithCriteriaCareer: [1, 2, 3, 3, 3, 3, 4, 4, 4, 4]
+      killsWithCriteriaCareer: [3, 6, 9, 9, 9, 9, 12, 12, 12, 12]
     killCriteria:
       -
-        - [1, ["FACTION_HOSTILE", "STATUS_TURNING"]]
+        - [1, ["BT_PSIAMP", "FACTION_HOSTILE", "STATUS_TURNING"]]
   - type: STR_MEDAL_NIGHT_TERRORMISSION_COUNT
     description: STR_MEDAL_NIGHT_TERRORMISSION_COUNT_DESCRIPTION
     sprite: 34
@@ -350,10 +350,10 @@ commendations:
     description: STR_MEDAL_PSIPANIC_DESCRIPTION
     sprite: 39
     criteria:
-      killsWithCriteriaCareer: [1, 2, 3, 3, 3, 3, 4, 4, 4, 4]
+      killsWithCriteriaCareer: [3, 6, 9, 9, 9, 9, 12, 12, 12, 12]
     killCriteria:
       -
-        - [1, ["FACTION_HOSTILE", "STATUS_PANICKING"]]
+        - [1, ["BT_PSIAMP", "FACTION_HOSTILE", "STATUS_PANICKING"]]
   - type: STR_MEDAL_REACTIONFIRE
     description: STR_MEDAL_REACTIONFIRE_DESCRIPTION
     sprite: 40
@@ -402,7 +402,7 @@ commendations:
     description: STR_MEDAL_SLAVEKILLS_DESCRIPTION
     sprite: 46
     criteria:
-      totalSlaveKills: [1, 6, 9, 9, 9, 9, 12, 12, 12, 12]
+      totalSlaveKills: [3, 6, 9, 9, 9, 9, 12, 12, 12, 12]
   - type: STR_MEDAL_SNIPER
     description: STR_MEDAL_SNIPER_DESCRIPTION
     sprite: 47

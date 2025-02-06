@@ -1,7 +1,8 @@
 #OpenXcom Commendations Mod by hellrazor, Shoes, Ivan Dogovich
-#Credits for Version 3.2
+#Credits for Version 3.3
 Credits go to:
-	Everyone in #openxcom @freenode
+	Everyone in #openxcom @Libera.chat
+	Everyone in #openxcom @Discord
 	Everyone in the OXC community, which somehow provided feedback, bugreports etc..
 	
 	Shoes:
@@ -16,15 +17,17 @@ Credits go to:
 	jgatkinsn:
 		- various bug fixes
 	Meridian:
-		ämany palette fixes on the images
-	holomorph (http://holomorph.eu/):
+		many palette fixes on the images
+	holomorph:
 		- Ufopaedia Graphics for:
 			MEDAL_GLOBETROTTER  
 			MEDAL_MARTYR  
 			MEDAL_MINDCONTROL  
 			MEDAL_POSTMORTEM_KILL  
 			MEDAL_PSIPANIC  
-			MEDAL_SLAVEKILLS  
+			MEDAL_SLAVEKILLS
+	cevaralien:
+		- for the final version of the commendation sprite
 
 	All translaters on the TRANSIFEX project (you guys are awesome)
 

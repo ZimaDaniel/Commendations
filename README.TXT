@@ -1,16 +1,17 @@
-#OpenXcom Commendations Mod v3.2
+#OpenXcom Commendations Mod v3.3
 #Authors: hellrazor, Shoes, Ivan Dogovich
 
 This mod requires at least: openxcom_git_master_2018_04_24_2218 or newer. 
 
-README for Version 3.2
+README for Version 3.3
 
 Your Soldier will now receive rewards for specific battleactions, like taking headshot on enemies.
 Currently there are 61 Commendations available, even thou some are still missing proper graphics and awesome texts.
 
 CREDITS:
 Credits go to:
-	Everyone in #openxcom @freenode
+	Everyone in #openxcom @Libera.chat
+	Everyone in #openxcom @Discord
 	Everyone in the OXC community, which somehow provided feedback, bugreports etc..
 	
 	Shoes:
@@ -25,15 +26,17 @@ Credits go to:
 	jgatkinsn:
 		- various bug fixes
 	Meridian:
-		ämany palette fixes on the images
-	holomorph (http://holomorph.eu/):
+		many palette fixes on the images
+	holomorph:
 		- Ufopaedia Graphics for:
 			MEDAL_GLOBETROTTER  
 			MEDAL_MARTYR  
 			MEDAL_MINDCONTROL  
 			MEDAL_POSTMORTEM_KILL  
 			MEDAL_PSIPANIC  
-			MEDAL_SLAVEKILLS  
+			MEDAL_SLAVEKILLS
+	cevaralien:
+		- for the final version of the commendation sprite
 
 	All translaters on the TRANSIFEX project (you guys are awesome)
 
@@ -44,36 +47,6 @@ LICENCE:
 	This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 	To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 	or see the LICENSE.md file.
-
-WHAT IS STILL MISSING:
-
-	Some Sprites for the Awards Menu listed as follows:
-
-	1. STR_MEDAL_GLOBETROTTER  
-	   Commendation Sprite ID=20
-	   Proper Strings for Ufopaedia
-	2. STR_MEDAL_MARTYR  
-	   Commendation Sprite ID=28  
-	   Proper Strings for Ufopaedia
-	3. STR_MEDAL_MELEE  
-	   Commendation Sprite ID=30  
-	   Proper Strings for Ufopaedia
-	4. STR_MEDAL_MINDCONTROL  
-	   Commendation Sprite ID=33  
-	   Proper Strings for Ufopaedia
-	5. STR_MEDAL_POSTMORTEM_KILL  
-	   Commendation Sprite ID=38  
-	   Proper Strings for Ufopaedia
-	6. STR_MEDAL_PSIPANIC  
-	   Commendation Sprite ID=39  
-	   Proper Strings for Ufopaedia
-	7. STR_MEDAL_SLAVEKILLS  
-	   Commendation Sprite ID=46  
-	   Proper Strings for Ufopaedia
-
-When you wanna provide Ufopaedia texts, please edit en-US.yml and provide us with the modified file.
-For adding the missing Award Menu Sprites, Please use the file Resources/Commendations/Commendation_PlaceholderTemplate.png
-To draw your contribution, we will then add it into the prover Spritesheet at the correct position.
 
 HOW DO I PROVIDE FEEDBACK?:
 Please post any feedback - bug reports, tanks, criticisms, requests for enhancements and the like - on the following http://openxcom.org/forum/index.php?topic=3048.0, or simply in the OXC Mods comment section.
@@ -91,6 +64,20 @@ INSTALL INSTRUCTIONS:
 This mod requieres at least: openxcom_git_master_2018_04_24_2218 or newer
 
 CHANGELOG:
+
+Version 3.3:
+ - Add Final Version of the Commendation sprite provided by	cevaralien
+ - Add Missing Ufopaedia Strings for:
+	1. STR_MEDAL_GLOBETROTTER
+	2. STR_MEDAL_MARTYR
+	3. STR_MEDAL_MELEE
+	4. STR_MEDAL_MINDCONTROL
+	5. STR_MEDAL_POSTMORTEM_KILL
+	6. STR_MEDAL_PSIPANIC
+	7. STR_MEDAL_SLAVEKILLS
+ - Fix missing BT_PSIAMP for:
+    1. STR_MEDAL_MINDCONTROL
+    2. STR_MEDAL_PSIPANIC
 
 Version 3.2:
  - Switch mod to Language format
